@@ -125,7 +125,7 @@ export default function Example() {
                 <div>
                   <a href="#" className="inline-flex space-x-4">
                     <span className="rounded bg-rose-50 px-2.5 py-1 text-sm font-semibold text-rose-500">
-                      What's new
+                      What's newishest!!!
                     </span>
                     <span className="inline-flex items-center space-x-1 text-sm font-medium text-rose-500">
                       <span>Just shipped version 0.1.0</span>
